@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE_5.3/Engine/Content/BasicShapes/Cube_Cube/Cube_GeometryCollection.uasset",
+				"D:/wdsa/Content/BP/BP_Player.uasset",
+				"D:/wdsa/Content/BP/AI/BP_Enemy.uasset",
+				"D:/wdsa/Content/BP/AI/AIC_Enemy.uasset",
+				"D:/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/AL/150SBKPH0Q8S71S0BKVFW8.uasset",
+				"D:/wdsa/Content/BP/AI/BT_Enemy.uasset",
+				"D:/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/E2/YCIHFSIXT1ZYN6OYTKL493.uasset",
+				"D:/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/ZL/39HXWWSH8TC62RQPOLKORA.uasset",
+				"D:/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
+				"D:/wdsa/Content/BP/AI/Plane.uasset",
+				"D:/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L1/E2595H4KI2QNE2GASF6UP9.uasset",
+				"D:/wdsa/Content/BP/AI/h.uasset",
+				"D:/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/PX/XBTBRZHFN2K0IR8DIUMUP3.uasset",
+				"D:/wdsa/Content/BP/AI/BP_Player.uasset",
+				"D:/wdsa/Content/BP/BP_Enemy.uasset",
+				"D:/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/M5/2Y4BWOZ6YJNVBJ1F71O0BZ.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WU/NB37RT5Q32Z8MJWD8BD2SO.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/R1/E17CCNCNSYHDFR1H7UR97V.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/BP/BP_Tree.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/BP/BP_Plank.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/BP/BP_Player.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JX/V3K0T7YTQ7LSC6I7OCG4H6.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/AL/XC2TTWOLTRBWIPNVQ4MY6U.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/JD/90QSR3J4YNT31X67GZLBGA.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/W0/6RAOOKZXILT0HDXC4A68CL.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/M5/2Y4BWOZ6YJNVBJ1F71O0BZ.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/BP/BP_Manufacture.uasset",
+				"C:/Users/timos/Documents/GitHub/EndOfTheApocalypse/wdsa/Content/BP/BP_Chair.uasset"
+			]
+		}
+	]
+}
